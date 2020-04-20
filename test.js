@@ -4,3 +4,4 @@ console.log('connectioned remote');
 console.log("git hub");
 console.log('confict ok');
 console.log('input by local');
+console.log('welcome pull to local');
